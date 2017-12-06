@@ -1,0 +1,11 @@
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.dll.config
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\KuzeyYeli.Entity.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.xml
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.csprojResolveAssemblyReference.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.csproj.CoreCompileInputs.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Entity\obj\Debug\KuzeyYeli.Entity.pdb

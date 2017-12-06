@@ -1,0 +1,6 @@
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\bin\Debug\KuzeyYeli.DTO.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.csprojResolveAssemblyReference.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.csproj.CoreCompileInputs.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.DTO\obj\Debug\KuzeyYeli.DTO.pdb

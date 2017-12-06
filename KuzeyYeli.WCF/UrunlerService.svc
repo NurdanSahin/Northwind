@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="KuzeyYeli.WCF.UrunlerService" CodeBehind="UrunlerService.svc.cs" %>

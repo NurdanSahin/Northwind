@@ -1,0 +1,14 @@
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.dll.config
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Repository.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Entity.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Entity.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\KuzeyYeli.Entity.dll.config
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.xml
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.csprojResolveAssemblyReference.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.csproj.CoreCompileInputs.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.dll
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli.Repository\obj\Debug\KuzeyYeli.Repository.pdb

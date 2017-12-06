@@ -1,0 +1,10 @@
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\bin\Debug\KuzeyYeli_WinForm.exe.config
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\bin\Debug\KuzeyYeli_WinForm.exe
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\bin\Debug\KuzeyYeli_WinForm.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.csprojResolveAssemblyReference.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.Properties.Resources.resources
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.csproj.GenerateResource.Cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.exe
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.pdb
+C:\Users\NURDAN\Documents\Visual Studio 2017\Projects\KuzeyYeli\KuzeyYeli_WinForm\obj\Debug\KuzeyYeli_WinForm.Form1.resources
